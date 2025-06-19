@@ -1,0 +1,283 @@
+#separator:tab
+#html:true
+#tags column:3
+Digital Transformation	When an organization uses new digital technologies to create or modify business processes, culture, and customer experiences to meet the needs of changing business and market dynamics	
+The cloud	A metaphor for the network of data centers which store and compute information that's available through the internet	
+Cloud technology	The on-demand availability of resources as services over the internet	
+Data	Raw information stored digitally	
+Cloud Native	An approach to building and running scalable applications to take full advantage of cloud-based services and delivery models	
+Open standard	Software that follows particular specifications that are openly accessible and usable by anyone	
+Open source	Software whose source code is publicly accessible and free for anyone to use, modify, and share	
+On-premises	Hardware and software applications that are hosted on-site, located and operated within an organization's data center to serve their unique needs	
+Scalability	A system's ability to handle varying amounts of work by adding or removing resources from the system	
+Flexability	Ability to access cloud services from anywhere and scaling services up or down as needed to meet business requirements	
+Agile	Ability to develop new applications and rapidly get them into production	
+Security	The depth and breadth of the security mechanisms and dedicated teams that cloud providers implement	
+Cost-effective	Lowering costs by only paying for the computing resources used	
+Strategic value	Staying updated with the latest innovations to get more competitive advantages and a higher return on investment	
+The main benefits of on-premises	Benefits include no third-party access required and can be tailored to unique needs	
+The main drawbacks of on-premises	Drawbacks include large upfront costs, long procurement time, physical location, maintance personnel, and often acquiring more resources than necessary	
+Private cloud	Cloud type where the infrastructure is dedicated to a single organization instead of the general public	
+Other names for private cloud	Single-tenant or corporate cloud	
+The main benefits of a private cloud	Benefits include using already adquired resources, complying with regulations, and most of the benefits of a public cloud	
+The main drawbacks of a private cloud	Drawbacks include high costs, ongoing maintenance and management as on-premises	
+Public cloud	Cloud type with on-demand computing services and infrastructure managed by a third-party provider and shared with multiple organizations	
+Other name for the public cloud	Multi-tenant cloud infrastructure	
+The main benefits to the public cloud	Benefits include on-demand availability to resources and only paying for what is used.	
+The main drawbacks to public cloud	Drawbacks include shared resources and only having access to standard options	
+Hybrid cloud	Cloud type that uses a combination of environments	
+Multicloud	Cloud architecture that combines at least two public cloud providers	
+The main business transformation benefit on intelligence	"GCP unifies data across streams, lakes, warehouses, and databases to quickly and easily break down data silos, generate real-time insights, and 
+allow better business decisions; thus reducing cost and inefficiencies."	
+The main business transformation benefit on freedom	GCP serves as a foundation for growth and has the flexibility to innovate securely and adapt quickly based on market needs	
+The main business transformation benefit on collaboration	GCP creates the best hybrid workplace for new, stronger connections and collaboration, where many interactions that took place in person have been digitized.	
+The main business transformation benefit on trust	GCP keeps data, systems, and users secure	
+The main business transformation benefit on sustainability	GCP creates a more sustainable future through products and services that minimize environmental impact	
+The five primary capabilities of the transformation cloud	Data, open infrastructure, collaboration, trust, and sustainable technologies	
+Drivers and challenges that lead organizations to undergo a digital transformation	Understanding and using data, wanting the best technology infrastructure, wanting to create the best hybrid workplace, security, and sustainability	
+Implications and risks for organizations that do not adapt new technology	Unable to drive innovation, generate new revenue streams, or adapt quickly to market changes and customer needs	
+Total cost of ownership (TCO) analysis	Weighing the cost of cloud adoption against the cost of running the current on-premises system	
+On-premises TCO	Initial purchase costs of hardware and software, data center maintenance, and the opportunity cost of not migrating to the cloud	
+Cloud TCO	Running cloud resources cost	
+Capital expenditures (CapEx)	Upfront business expenses put toward fixed assests	
+Operating expenses (OpEx)	Recurring costs for day-to-day expenses	
+Fiber-optic cables	Optical fibers used to transmit data as pulses of light over long distances	
+Subsea cables	Underwater fiber optic cables that carry 99% of international network traffic	
+Internet service provider (ISP)	Organization that provides access to the internet to both personal and business customers, handling the traffic between the customer and the internet as a whole	
+IP address (Internet Protocol)	Series of numbers that can identify a network or the location of a particular device on a network	
+Domain name	Easy-to-remember name that maps directly to an IP address or set of IP addresses on the internet	
+Domain Name System (DNS) Server	Server with a database of domain names mapped to IP addresses that can be queried and used by computers to communicate with each other	
+Bandwidth	A measure of how much data a network can transfer in a given amount of time	
+Latency	A measure of how long it takes a particular part of a system to return a result. It's important because it directly affects the user experience, changes could indicate emerging issues. It's values might be tied to capacity demands, and it can be used to measure system improvements.	
+The five major geographic locations	North America, South American, Europe, Asia, and Australia	
+Region	Independent geographic area composed of zones	
+Zone	An area where Google Cloud resources are deployed	
+Google's Edge Network	Network infrastructure used to provide the lowest latency for Google services	
+How Google Cloud supports digital transformation with global infrastructure	A network infrastructure that aims to deliver services with high performance, high reliability, low latency, and that also exchanges traffic efficiently and cost effectively	
+Infrastructure as a Service (IaaS)	Computing model that allows organizations to lease infrastructure resources they need instead of having to buy hardware outright, and they only pay for what they use	
+as-a-Service level for Compute Engine	IaaS	
+as-a-Service level for Cloud Storage	IaaS	
+Scenarios for IaaS	Organizations that: have unpredictable workload volumes or need to move quickly in response to business fluctuations; require more infrastructure scalability and agility than traditional data centers can provide; have high business growth that outpaces infrastructure capabilities; experience unpredictable spikes in demand for infrastructure services; see low utilization of existing infrastructure resources	
+Platform as a Service (PaaS)	Computing model that offers a cloud-based platform for developing, running, and managing applications	
+as-a-Service level for Cloud Run	PaaS	
+as-a-Service level for BigQuery	PaaS	
+Cloud Run	Fully managed, serverless platform for developing and hosting applications at scale using containers, which takes care of provisioning servers and scaling app instances based on demand.	
+BigQuery	Fully managed enterprise data warehouse that manages and analyzes data, and can be queried to answer big data questions with zero infrastructure management	
+Scenarios for PaaS	Organizations that: want to create unique and custom applications without investing a lot in owning and managing infrastructure; want to rapidly test and deploy applications; have many legacy applications and want to reduce the cost of operations; have a new app project that they want to deploy quickly by growing and updating the app as fast as possible; want to only pay for resources while they're being used; and want to offload time-consuming tasks such as setting up and maintaining application servers and development and testing environments	
+Software as a Service (SaaS)	Computing model that offers an entire application, managed by a cloud provider, through a web browser	
+as-a-Service level for Google Workspace (Gmail, Google Drive, Google Docs, and Google Meet)	SaaS	
+Scenarios for SaaS	Organizations that: want to use standard software solutions that require minimal customization; don't want to invest time or internal expertise in maintaining applications or infrastructure; need more time for IT teams to focus on strategic projects; and need to access apps from various devices and locations	
+Shared responsibility model	As infrastructure is moved to the cloud, some aspects of the responsibility shifts to the cloud provider	
+as-a-Service level where the cloud provider is only responsible for physical hardware, networking, and security	IaaS	
+as-a-Service level where the cloud provider gains responsibility for infrastructure operations	PaaS	
+as-a-Service level where the cloud provider gains responsibility for availability and deployment	SaaS	
+Database	An organized collection of data stored in tables	
+Data warehouse	An enterprise system used for the analysis and reporting of structured and semi-structured data from multiple sources	
+Data lake	Repository designed to ingest, store, explore, process, and analyze any type or volume of raw data, regardless of the source	
+First-party data	Proprietary customer datasets that a business collects from customer or audience transactions and interactions	
+Second-party data	First-party data from another organization	
+Third-party data	Data collected and managed by organizations that don't directly interact with an organization's customers or business	
+Data value chain	Progressively adding parts and value to raw data until it is transformed into action	
+Data genesis	The part of the data value chain for the initial creation of a unit of data	
+Data collection	The part of the data value chain for ingesting data from the system in which it's hosted and bring it to a new system	
+Data processing	The part of the data value chain for transforming collected raw data into a form that's ready to derive insights	
+Data storage	The part of the data value chain where data lands, can be found, and is ready for analysis and action	
+Data analysis	The part of the data value chain where data provides direction for business-oriented action	
+Data activation	The part of the data value chain for when an analysis is produced, it needs to be pushed to the relevant business procedures and decision makers so that action can be taken and the value completed	
+Structured data	Data that is highly organized and well-defined. It's typically stored in a table with relationships between the different rows and columns, like in a spreadsheet or database	
+Semi-structured data	Data that is organized into a hierarchy, but without full differentiation or any particular ordering. Examples include emails, HTML, JSON, and XML files.&nbsp;	
+Unstructured data	Data that either doesn't have a predefined model or isn't organized in a predefined manner. Categories include text, data files, and infrastructure activity.	
+Data governance	Setting internal standards - data policies - that apply to how data is gathered, stored, processed, and disposed of.	
+Cloud Storage	Fully managed, scalable service that offers developers and IT organizations durable and highly available object storage. It is a good option for unstructured data.	
+Object Storage	"A computer data storage architecture that manages data as ""objects"". Common data include video, pictures, and audio recordings."	
+File storage	Computer data storage architecture that manages data as a file and folder hierarchy	
+Block storage	A computer data storage architecture that manages data as chunks of a disk	
+Standard storage	Storage class for frequently accessed data or data that's stored for only brief periods of time	
+Nearline storage	Storage class for storing data that is read or modified on average once a month or less	
+Coldline storage	Storage class for storing data that is read or modified at most once every 90 days	
+Archive storage	Storage class for storing data that is read or modified less than once a year	
+Autoclass	Cloud Storage feature which automatically transitions objects to appropriate storage classes based on each object's access pattern	
+Cloud SQL	Service that offers fully managed relational databases, including MySQL, PostgreSQL, and SQL Server as a service. It supports managed backups, encrypts customer data, and includes a network firewall. It is a good option for transactional structured data for regional scalability.	
+Spanner	A fully managed, globally available, relational database service that scales horizontally to handle unexpected business spikes. It is a good option for transactional structured data for global scalability.	
+Firestore	A flexible, horizontally scalable, NoSQL, transactional, document-oriented cloud database for storing and syncing data in real-time. It is good for real-time data synchronization.	
+Bigtable	Google's NoSQL big database service for real-time analytical workloads. It is useful when working with more than 1 TB of data.	
+Rehost migration	Where databases are migrated from on-premises and private cloud environments to the same type of database hosted by a public cloud provider. Also known as 'lift and shift'.	
+Managed database migration	Migration of databases from SQL Server, MySQL, PostgreSQL, and others to a fully managed Google Cloud database	
+Data Migration Service (DMS)	Service to migrate to open source databases in the cloud from on-premises, Google Cloud, or other clouds	
+Looker	Google Cloud business intelligence (BI) platform designed to help individuals and teams analyze, visualize, and share data. This includes creating interactive dashboards and reports that are easy to understand and share.	
+Batch processing	Processing large volumes of data at the same time, with long periods of latency	
+Streaming analytics	The processing and analyzing of data records continuously instead of in batches	
+Pub/Sub (Publisher/Subscriber)	A distributed messaging service that can receive messages from various device streams such as gaming events, IoT devices, and application streams.	
+Dataflow	Serverless and fully managed service to create pipelines to process both streaming and batch data	
+Artifical intellegence	A broad field which refers to the use of technologies to build machines and computers that can mimic cognitive functions associated with human intelligence. A set of technologies implemented in a system to let it reason, learn, and act to solve a complex problem.	
+Machine learning	A subset of AI that lets a machine learn from data without being explicitly programmed. It relies on various models to analyze large amounts of data, learn from the insights, and then make predictions and informed decisions.	
+Generative AI	A type of artificial intelligence that can produce new content, including text, images, audio, and synthetic data	
+The four common business problems ML is suited to solve	1) Replacing or simplifying rule based systems<br>2) Automating processes<br>3) Understanding unstructured data like images, videos, and audio<br>4) Personalization	
+Completeness of data for ML models	Whether the data has all the required information. If the data is incomplete, then the model will not learn all the patterns that are necessary to make accurate predictions.	
+Uniqueness of data for ML models	Whether the data has no duplicate records or not. If a model is trained on a data set with a high number of duplicates, the ML model may not be able to learn accurately. This is because it will be confused by the duplicate records and won't be able to accurately identify patterns.	
+Timeliness of data for ML models	Whether the data is up-to-date and reflects the current state of the phenomenon that's being modeled. If the data is not timely, then the model might be making predictions based on outdated or irrelevant information.	
+Validity of data for ML models	Whether the data conforms to a set of predefined standards and definitions, such as type and format. It also ensures that data is in an acceptable range. ML models need standarized inputs.	
+Accuracy of data for ML models	Whether the data is correct or not. ML models need to learn from correct data to make the correct predictions.	
+Consistency of data for ML models	Whether the data is uniform and doesn't contain any contradictory information. ML models need consistent data to learn patterns.	
+Responsible AI principles	AI should be socially beneficial, avoid creating or reinforcing unfair bias, be built and tested for safety, be accountable to people, incorporate privacy design principles, uphold high standards of scientific excellence, and be made available for uses that accord with these principles	
+Explainable AI	Google Cloud's set of tools and frameworks to help you understand and interpret predictions made by your machine learning models	
+BigQuery ML	Tool for using SQL queries to create and execute maching learning models in BigQuery	
+Pre-trained API models	Service to use machine learning models that were built and trained by Google	
+AutoML	No code solution that lets you build your own machine learning models on Vertex AI through a point and click interface	
+Custom trained models	You can code your own machine learning environment, the training, and the deployment, which gives you flexibility and provides control over the ML pipeline	
+TensorFlow	Google's end-to-end open source platform for machine learning. It has a flexible ecosystem of tools, libraries, and community resources that enable researchers to innovate in ML and developers to build and deploy ML powered applications.	
+Contact Center AI	Provides models for speaking with customers and assisting human agents, increasing operational efficiency, and personalizing customer care to transform your contact center.	
+Document AI	Extracts and classifies information from unstructured documents such as invoices, receipts, forms, letters, and reports. The extracted data can then be saved in a database or exported to another application for futher analysis.	
+Discovery AI	Retail machine learning model to select the optimal ordering of products on a retailer's e-commerce site	
+Cloud Talent Solution	AI for job search and talent acquisition capabilities, matches candidates to ideal jobs faster, and allows employers to attract and convert higher quality candidates	
+Vision API	Pre-trained API to automatically detect faces, objects, text, and even sentiment in images	
+Natural language API	Pre-trained API to discover syntax, entities, and sentiment in text and classify text into a predefined set of categories.	
+Cloud Translation API	Pre-trained API to convert text from one language to another	
+Speech-to-Text API	Pre-trained API to convert audio to text for data processing	
+Text-to-Speech API	Pre-trained API to convert text into high quality voice audio	
+Video intelligence API	Pre-trained API to recognize motion and action in video	
+Vertex AI	Platform for creating custom end-to-end machine learning models	
+Cloud Tensor Processing Unit (TPU)&nbsp;	Google's custom developed application specific integrated circuit used to accelerate machine learning workloads.	
+Compute/Computing	A machine's ability to process information to store, retrieve, compare and analyze it, and automate tasks often done by computer programs, otherwise known as software or applications	
+Virtualization	A form of resource optimization that allows multiple systems to run on the same hardware	
+Virtual Machine (VM)	System used for virtualization. They recreate a full representation of the hardware. They share the same pool of computer processing, storage, and networking resources.	
+Hypervisor	The software layer that enables virtualization	
+Containers	Isolated environments to run software services and optimize resources from one piece of hardware. They only virtualize the operating system.	
+Kubernetes	An open source cluster management system that provides automated container orchestration	
+Serverless computing	Computing model that has the resources automatically provisioned behind the scenes as needed	
+Function as a Service	Serverless computing solutions	
+Anthos	An open application modernization platform that enables modernizing existing applications, build new ones, and run them anywhere. It allows applications to be built once and run wherever needed, on-premises, on Google Cloud, or on a different public cloud	
+Compute Engine	The computing and hosting service that lets you create and run virtual machines on Google's infrastructure. It delivers scalable, high performance virtual machines running in Google's innovative data centers and worldwide fiber network.	
+Compute Engine VM	Virtual machines under the Compute Engine. They boot quickly, come with persistent disk storage, and deliver consistent performance.	
+Google Cloud VMware Engine	Fully managed service that lets you run the VMware platform in Google Cloud	
+Bare Metal	A secure environment in which you can run your specialized workloads on high-performance, bare-metal servers	
+Google Kubernetes Engine (GKE)	A managed environment for deploying, managing, and scaling your containerized applications using Google infrastructure.	
+App Engine	Platform as a service and cloud computing platform for developing and hosting web applications using specific runtimes. Used to build scalable web and mobile backends in any programming language on a fully managed serverless platform.	
+Cloud Functions	Write and run small code snippets that respond to events	
+The five common application modernization patterns	1) Move the application to the cloud first then change it<br>2) Change the application first then move to the cloud<br>3) Invent greenfield in the cloud without touching older applications<br>4) Invent brownfield in the cloud to replace older applications<br>5) Move the application without any changes	
+Continous integration and Continuous deployment (CI/CD)	Test and roll out changes incrementally instead of making big releases with multiple changes	
+Application Programming Interface (API)	A set of rules and specifications that allows different software applications to communicate and exchange data. They enable integration between systems so businesses can unlock value and create new services by exposing data in a way that protects the integrity of the legacy systems and enables secure and governed access to the underlying data.	
+Digital Ecosystem	A group of interconnected companies and products	
+Apigee	API management and registration platform. It includes an API Services layer that provides the runtime API gateway functionality and developer services. Developers can register applications to measure and track the performance of APIs.	
+Privileged access	Security model that grants specific users access to a broader set of resources than ordinary users.	
+Least privilege	Security principle that advocates granting users only the access they need to perform their job responsibilities.	
+Zero-trust architecture	Security model that assumes no user or device can be trusted by default.	
+Security by default	Principle that emphasizes integrating security measures into systems and applications from the initial stages of development.	
+Security posture	The overall security status of a cloud environment. It indicates how well an organization is prepared to defend against cyber attacks by evaluating their security controls, policies, and practices.	
+Cyber resilience	An organization's ability to withstand and recover quickly from cyber attacks. It involves identifying, assessing, and mitigating risks, responding to incidents effectively, and recovering from distruptions quickly.	
+Firewall	A network device that regulates traffic based on predefined security rules. It follows certain rules to decide which traffic is allowed to enter or leave a network.	
+Encryption	The process of converting data into an unreadable format by using an encryption algorithm.	
+Decryption	The reverse process that uses an encryption key to restore encrypted data back in its original form.	
+Confidentiality	Keeping important information safe and secret. It ensures that only authorized people can access sensitive data, no matter where it's stored or sent.	
+Integrity	Keeping data accurate and trustworthy. It ensures that information doesn't get changed or corrupted, no matter where it's stored or how it's moved around.	
+Availability	Making sure the cloud systems and services are always accessible and ready for use by the right people when needed.	
+Control	The measures and processes implemented to manage and mitigate security risks. It involves establishing policies, procedures, and technical safeguards to protect against unauthorized access, misuse, and potential threats.	
+Compliance	Adhering to industry regulations, legal requirements, and organizational policies. It involves ensuring that security practices and measures align with established standards and guidelines.	
+Authentication	Verifying the identity of users or systems that seek access	
+Two-step verification/two-factor authentication/multi-factor authentication	A security feature where users need to provide two different pieces of information to log in	
+Authorization	Determining what a user or system is allowed to do within the system	
+Auditing	Monitoring and tracking user activities within a system	
+Identity and Access Management (IAM)	Platform to create and manage user accounts, assign roles to users, grant and revoke permissions to resources, audit user activity, and monitor the system's security position	
+BeyondCorp	Google's implementation of the zero trust model that allows for single sign-on, access control policies, access proxy, and user- and device-based authentication and authorization	
+Cloud VPN	Google Cloud's virtual private network	
+Cloud Interconnect	Dedicated connection between Google Cloud VPC and other networks	
+Virtual Private Cloud (VPC) Service Controls	The way to divide Google Cloud resources into different sections to keep them secure	
+Google Cloud Armor	Robust DDoS protection provider	
+Security Operations (SecOps)	A combination of processes and technologies that help reduce the risk of data breaches, system outages, and other security incidents	
+Vulnerability management	The process of identifying and fixing security vulnerabilities in cloud infrastructure and applications	
+Security Command Center (SCC)	Google Cloud's centralized view of the system's security posture. It helps to identify and fix vulnerabilities, and it ensures that infrastructure remains solid and protected.	
+Cloud Logging	Service to collect and analyze security logs from the entire Google Cloud environment	
+Google Cloud's trust principles	"1) You own your data, not Google<br>2) Google does not sell customer data to third parties<br>3) Google Cloud does not use customer data for advertising<br>4) All customer data is encrypted by default<br>5) We guard against insider access to your data<br>6) We never give any government entity ""backdoor"" access<br>7) Our privacy practices are audited against international standards"	
+Data sovereignty	The legal concept that data is subject to laws and regulations of the country where it resides	
+Data residency	The physical location where data is stored or processed	
+Google Cloud compliance resource center	A comprehensive hub providing detailed information on the certifications and compliance standards Google Cloud satisfies. This comprehensive hub provides detailed information on the certifications and compliance standards we satisfy. It has mappings of Google's security, privacy, and compliance controls to global standards. This transparency allows for validation of Google's adherence to industry-leading practices. The resource center also offers valuable documentation on regional and sector-specific regulations, and empowers you to navigate complex compliance landscapes. It is the go-to source for actionable information and support.	
+Compliance Reports Manager	Platform that offers easy, on-demand access to critical compliance resources at no extra cost. It has the latest ISO/IEC certificates, SOC reports, and self-assessments. These resources provide evidence of Google's adherence to rigorous compliance standards and help streamline your own reporting and compliance efforts.	
+Cloud financial governance best practices	1) Identify who manages cloud costs<br>2) Understand what kind of information can be found in an invoice versus cost management tools<br>3) Use Google Cloud's cost managment tools	
+Google Cloud Pricing Calculator	Tool to estimate how changes to cloud usage will affect costs	
+Invoice	A document that is sent by a cloud service provider to a customer to request payment for the services that were used	
+Cost management tool	Software to help track, analyze, and optimize cloud spend	
+Google Cloud's resource hierarchy's four levels	Organization &gt; folders &gt; projects &gt; resources	
+Policy	A set of rules that define who can access a resource and what they can do with it. These can be defined at the resource, project, folder, and organization level.	
+Benefits of using the Google Cloud resource hierarchy to control access	1) Provides granular access control<br>2) Permissions set at higher levels of the resource hierarchy are automatically inherited by lower-level resources<br>3) Enhances security and compliance through least privilege principles<br>4) Provides strong visibility and auditing capabilities	
+Resource quota policies	Sets limits on the amount of resources that can be used by a project or user. They can help prevent overspending on cloud resources; therefore they help ensure cloud usage is within budget.	
+Budget threshold rules	Set alerts to be informed when cloud costs exceed a certain threshold. They can act as an early warning for potential cost overruns to allow corrective actions before costs get out of control.	
+Cloud Billing reports	Track and understand Google Cloud resource costs and provide ways to help optimize costs. Billing data can be exported to BigQuery and visualized with Looker Studio.	
+Committed use discounts (CUDs)	Purchase resources at discounted prices for a commitment (committed use contract) to use at a minimum level for a specific term.	
+Operational excellence	The ability of organizations to optimize their operations by efficiently scalling the underlying infrastructure, automating resource provisioning, and implementing load balancing mechanisms.	
+Reliability	The ability of organizations to ensure uninterrupted service delivery by minimizing downtime, employing fault-tolerant systems, and employing disaster recovery strategies.	
+DevOps	A software development approach that emphasizes collaboration and communication between development and operations teams to enhance the efficiency, speed, and reliability of software delivery. It aims to break down silos between teams and foster a culture of shared responsibility, automation, and continuous improvement.	
+Site Reliability Engineering (SRE)	Combining aspects of software engineering and operations to design, build, and maintain scalable and reliable infrastructure. It ensures the reliability, availability, and efficiency of software systems and services deployed in the cloud.	
+Traffic	How many requests reach a system. It is important because it's an indicator of current system demand, it's historical trends are used for capacity planning, and it's a core measure when calculating infrastructure spend.	
+Saturation	The measure of how close to capacity a system is. It's important because it's an indicator of how full the service is, it focuses on the most constrained resources, and it's frequently tied to degrading performance as capacity is reached.	
+Errors	Events that measure system failures or other issues. They are often raised when a flaw, failure, or fault in a computer program or system causes it to produce incorrect or unexpected results, or behave in unintended ways. They are important because they can indicate something is failing, configuration or capacity issues, service level objective violations, or that it's time to send an alert.	
+Service-level indicators (SLIs)	Measurements that show how well a system or service is performing. They're specific metrics like response time, error rate, or percentage uptime, that help us understand the system's behavior and performance.	
+Percentage uptime	The amount of time a system is available for use	
+Service-level objectives (SLOs)	The goals that are set for a system's performance based on SLIs. They define what level of reliability or performance to achieve.	
+Service level agreements (SLAs)	Agreements between a cloud service provider and its customers. They outline the promises and guarantees regarding the quality of service. This might include refunds or credits when the service has an outage that's longer than the agreement allows.	
+High availability	The ability of a system to remain operational and accessible for users even if hardware or software failures occur.	
+Disaster recovery	The process of restoring a system to a functional state after a major disruption or disaster.	
+Redundancy	Duplicating critical components or resources to provide backup alternatives. It can be implemented at various levels, such as hardware, network, or application layers. It enhances system reliability and mitigates the impact of single points of failure.	
+Replication	Creating multiple copies of data or services and distributing them across different servers or locations. It ensures redundancy and fault tolerance by allowing systems to continue functioning even if certain components or servers fail.	
+Autoscaling	Mechanisms to automatically adjust resource capacity to match demand, ensuring that services remain available and responsive during peak periods or sudden spikes in traffic.	
+Observability	Collecting, analyzing, and visualizing data from various sources within a system to gain insights into its performance, health, and behavior.	
+Google Cloud Observability	Comprehensive set of monitoring, logging, and diagnostics tools. It offers a unified platform for managing and gaining insights into the performance, availability, and health of applications and infrastructure deployed on Google Cloud. Tools include Cloud Monitoring, Cloud Logging, Cloud Trace, Cloud Profiler, and Error Reporting.	
+Cloud Monitoring	Comprehensive view of cloud infrastructure and applications. It collects metrics, logs, and traces from your applications and infrastructure, and provides you with insights into their performance, health, and availability. It also lets you create alerting policies to notify you when metrics, health check results, and uptime check results meet specified criteria.	
+Cloud Trace	Identifies performance bottlenecks in applications. It collects latency data from applications, and provides insights into how they're performing.	
+Cloud Profiler	Identifies how much CPU power, memory, and other resources an application uses. It continuously gathers CPU usage and memory-allocation information from production applications and provides insights into how applications are using resources.	
+Error Reporting	Counts, analyzes, and aggregates the crashes in running cloud services in real-time. A centralized error management interface displays the results with sorting and filtering capabilities. A dedicated view shows the error details: time chart, occurrences, affected user count, first- and last-seen dates, and a cleaned exception stack trace. It supports email and mobile alerts notification through its API.	
+Google Cloud Customer Care	Support center with scalable and flexible services built with your business needs at the center	
+Basic Support	The free and already included level of Google Cloud Customer Care. It provides access to documentation, community support, Cloud Billing Support, and Active Assist recommendations.	
+Active Assist	The portfolio of tools used in Google Cloud to generate insights and recommendations to help optimize cloud projects.	
+Standard Support	The recommended level of Google Cloud Customer Care for workloads under development to allow troubleshooting, testing, and exploring. It offers unlimited individual access to English-speaking support representatives during working hours, 5 days a week, and also provides access to the Cloud Support API.	
+Cloud Support API	API integration for Cloud Customer Care with an organization's customer relationship management system.	
+Enhanced Support	Google Cloud Customer Care level for workloads in production, with fast response times and additional services to optimize your experience with high-quality, robust support. Support is available 24/7 in a selection of languages, and initial response times are quicker than those provided by Standard Support. It also offers technical support escalations and third-party technology support to help you resolve multi-vendor issues.	
+Premium Support	Google Cloud Customer Care level designed for enterprises with critical workloads. It features the fastest response time, Customer Aware Support, and a dedicated Technical Account Manager. It also offers credit for the Google Cloud Skills Boost training platform, an event management service for planned peak events, and operational health reviews.	
+Customer Aware Support	Feature of Customer Care that learns and maintains information about an organization's architecture, partners, and Google Cloud projects. This information ensures that our support experts can resolve your cases promptly and efficiently.	
+Value-Add Services	Additional services for Customer Care Enhanced and Premium levels available for additional purchase	
+Tech Support Editor role	Role within an organization that can initiate a support request by creating a case in the Google Cloud Console	
+Priority levels	Levels for support requests ranging from P4, low impact, to P1, critical impact. This will influence response times from the Customer Care team.	
+Life of a support case	1) Case creation<br>2) Case triage<br>3) Case assignment<br>4) Troubleshooting and investigation<br>5) Communication and updates<br>6) Escalation<br>7) Resolution and mitigation<br>8) Validation and testing	
+Case creation	The first step of a support case life. The customer initiates the support request by creating a case in the Google Cloud Console. The customer provides relevant details about the issue they are experiencing, including any error messages, logs, or steps to reproduce the problem. The user selects a priority level. It is for Standard, Enhanced, or Premium Support plans only.	
+Case triage	The second step in a support case life. The team reviews the information provided by the customer to understand the problem and determine its severity and impact on the customer's business operations. The team might request additional information or clarification.	
+Case assignment	The third level of the support case life. In many cases, the Customer Care representative will resolve the case, but for more complex issues, the case is assigned to a support engineer with the appropriate level of expertise.	
+Troubleshooting and investigation	The fourth step of a support case life. The team analyzes the provided information, review system logs, and conduct various diagnostic tests to identify the root cause of the issue. Depending on the complexity of the problem, this stage might involve collaboration with other internal teams or experts.	
+Communication and updates	The fifth step of a support case life. Thoughout the investigation, the Customer Care team maintains regular communication with the customer. They provide updates on the progress, share findings, and request additional information or actions from the customer when needed.	
+Escalation	The sixth step of a support case life. It is meant for flagging process breaks or for the rare occasion that a case is stuck because a customer and the Customer Care team aren't fully in sync, despite actively communicating the issue to determine the next steps. It isn't always the best solution, and with high-impact issues, it might not make the case go faster. It is a tool that can be used to regain traction on a stuck case.	
+Resolution and mitigation	The seventh step of a support case life. The team might provide the customer with step-by-step instructions, configuration changes, or workaround suggestions to address the problem. In some cases, they might consult the issue with higher-level support or engineering teams for further assistance. The Customer Care team might also need to submit a feature request to the Google Cloud engineering team.	
+Validation and testing	The eighth step of a support case life. The Customer Care team collaborates with the customer about the effectiveness of the solution. They might request the customer to perform specific tests or provide feedback on the outcome. This step ensures that the problem is fully resolved and meets the customer's expectations.	
+Case closure	The ninth step of a support case life. The team provides a summary of the resolution, documents the steps taken, and ensures that the customer is satisfied with the outcome. If needed, they might offer recommendations for preventive measures or future best practices to avoid similar issues. The customer also receives a feedback survey, so the support team can learn what they did well and what needs improvement.	
+ISO 14001	Standard that outlines a framework for an organization to enhance its environmental performance through improving resource efficiency and reducing waste	
+Online Transaction processing (OLTP)	System used when fast data inserts and updates are required to build row-based records	
+Online analytical processing (OLAP)	System used when entire datasets need to be read, often for complex queries like aggregations	
+Relational data	Data organized in predefined connections, often in tables of columns and rows	
+Non-relational data	Data not stored with connections, often key-value pairs or hierarchy	
+Datastream	Serverless change data capture and replication service to synchronize data reliably and with minimal latency	
+Change Data Capture (CDC)	Process to monitor and track changes made to data in a database	
+Dataproc	Fully managed and highly scalable service for running Apache Hadoop, Apache Spark, and other open source tools and frameworks. Used for data lake modernization, ETL, and data science.	
+Storage Transfer Service	Service for automated data transfers at scale to Google Cloud. Used for more than 1 TB of data.	
+Transfer Application	A high-capacity storage device to transfer and securely ship data to a Google upload facility. Used for 100's TB transfers.	
+Data pipeline	A series of actions, or stages, that ingest raw data from different sources and then move that data to a destination for storage and analysis	
+Apache Beam	An open source, unified programming model to define and execute data processing pipelines, including ETL, batch, and stream processing. It is used by Dataflow	
+AL and ML solutions considerations	1) How quickly does a model need to get to production?<br>2) How unique does the model need to be?<br>3) What expertise is required?<br>4) What effort is required?	
+Workload	The computing resources and tasks necessary to run an application or service	
+Retire	Ending the use of an application	
+Retain	Keeping an application in its existing environment	
+Replatform migration	Move application to the cloud with some modifications to take advantage of the cloud. Also know as 'move and improve'.	
+Refactor migration	Rewrite applications to be cloud-native. Also know as 'reimagine'.	
+Containerization	Computer architecture utilizing containers	
+Microservices	Computer architecture for applications built as a set of small, independent services	
+Preemptible VM	Lower cost VMs that maybe taken back by Google. They are good for fault-tolerant workloads running under 24 hours.	
+Spot VM	The latest version of preemtible VMs with no default maximum runtime.	
+Load balancing	Distributing network traffic and workloads across multiple computing resources	
+CIA triad	Security model emphasizing: Confidentiality, protecting sensitive information; integrity, ensuring data accuracy and trustworthiness; and availability, maintaining uninterrupted access to resources and services.	
+Social engineering	Cyber security threat of manipulating employees of an organization to extract confidential system information	
+Phishing attack	Using crafted email and other methods of contact to mimic authenticity to deceive targets.	
+Physical damage	Cybersecurity threat by damaging hardware components, power disruptions, or natural disasters.	
+Malware	Cybersecurity threat of employing malicious software to disrupt operations, inflict damage, or gain unauthorized access to computer systems	
+Ransomware	Cybersecurity threat of holding crucial files hostage until a considerable ransom is paid	
+Vulnerable third-party systems	Cybersecurity threat where third-party systems for essential functions don't have adequate security measures.	
+Configuration mishaps	Cybersecurity threat where errors arise during the setup or configuration of resources, which inadvertently exposes sensitive data and systems to unauthorized access.	
+ISO/IEC 27001	Certification that demonstrates to stakeholders that an organization's information security management is aligned with global best practices.	
+Distributed Denial-of-Service (DDoS) attack	Cybersecurity threat that aims to make a system unavailable to legitimate users by overwhelming it with a flood of internet traffic from multiple sources.	
+Cloud Center of Excellence	Centralized team consisting of several experts who ensure that best practices are in place across the organization and that there's visibility into the ongoing cloud spend. The centralized group would also be able to make real-time decisions and discuss trade-offs when spending is higher than planned.	
+Cloud financial process	On a daily or weekly basis, organizations should monitor and analyze their cloud usage and costs. Then on a weekly or monthly basis, the finance team should analyze the results, charge back the costs through the appropriate teams, and determine whether any changes are needed to ensure that the organization's cloud spend is optimized.	
